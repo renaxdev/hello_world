@@ -6,13 +6,6 @@ void setup(){
 void loop(){
     //nothing here... we only want to print out "Hello World" once.
 }
-
-
-
-
 /*
-
 For this "Hello World" you'll need a Arduino or another Arduino IDE compatible Microcontroller
-
-
 */
